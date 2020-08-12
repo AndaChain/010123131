@@ -57,7 +57,7 @@ class Boolean_algebra:
 
                     # Operate only
                     if(Str[i] in char):
-                        self.variable.append(Str[i])
+                        self.operate.append(Str[i])
                         self.original_list.append(Str[i])
         
         return self.original_list
