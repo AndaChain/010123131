@@ -1,2 +1,2 @@
-โปรแกรมหลักคือไฟล์ Boolean_tree.py นะครับ
-Main program is Boolean_tree.py
+โปรแกรมหลักคือไฟล์ VisualizingBinaryTree.py นะครับ และโหลด CreateTree.py, Filter.py, และ SplitExpression.py ด้วยครับ
+The Main program is VisualizingBinaryTree.py and download CreateTree.py, Filter.py, and SplitExpression.py
