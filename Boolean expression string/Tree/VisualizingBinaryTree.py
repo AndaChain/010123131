@@ -173,5 +173,8 @@ while(running):
         if event.type == pygame.QUIT:
             pygame.image.save(display, "screenshot.jpg")
             running = False
+    label = myfont.render( str(Test_data_set[index]),1,(Black) )
+    display.blit( label,(0, 0) )
+    pygame.display.update()
 
 pygame.quit()
